@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b0dde749-786d-43cc-ae3c-81d75b8c1231",
+    "rating": 5,
+    "opinion": "Nice!",
+    "interestedInResearch": true,
+    "email": "rahaf@test.com",
+    "submittedAt": "2025-08-28T20:41:35.101738+00:00"
+  },
+  {
+    "id": "a9a2e488-457d-4091-8aec-db86ae9c33c4",
+    "rating": 5,
+    "opinion": "Best app! I recomend everyone to use ",
+    "interestedInResearch": false,
+    "email": "",
+    "submittedAt": "2025-08-28T20:43:05.027988+00:00"
+  },
+  {
+    "id": "825a2c93-5212-4cc0-a210-e27a802065a9",
+    "rating": 3,
+    "opinion": "eee",
+    "interestedInResearch": true,
+    "email": "rahafjazz@gmail.com",
+    "submittedAt": "2025-08-28T20:43:53.190243+00:00"
+  },
+  {
+    "id": "0d8467e9-2e3a-4a3b-98e3-e58b814624ec",
+    "rating": 1,
+    "opinion": "need fixes!! ",
+    "interestedInResearch": false,
+    "email": "",
+    "submittedAt": "2025-08-28T21:15:32.926107+00:00"
+  },
+  {
+    "id": "d1d84d75-56eb-4c2d-a81f-2915aaa6c574",
+    "rating": 4,
+    "opinion": "I love this application!! ",
+    "interestedInResearch": true,
+    "email": "test@gmail.com",
+    "submittedAt": "2025-09-15T19:13:22.069232+00:00"
+  },
+  {
+    "id": "86720313-0515-4466-9f98-cd1257f6b1ac",
+    "rating": 5,
+    "opinion": "I love this application!",
+    "interestedInResearch": true,
+    "email": "test@gmail.com",
+    "submittedAt": "2025-09-15T19:36:15.717513+00:00"
+  }
+]
